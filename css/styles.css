@@ -1,0 +1,20 @@
+.titleMain, .bgMainLorem{
+	background-color: #d3d3d3;
+	border: 5px outset #d3d3d3;
+}
+
+.bgFoot{
+	background-color: #b1b1b1;
+}
+
+.bgMain{
+	background-color: #e4e4e4;
+}
+
+a{
+	color: black;
+}
+
+.imgEmail{
+	width: 30px;
+}
